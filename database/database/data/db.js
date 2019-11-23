@@ -1,4 +1,4 @@
-////////
+///////////
 const faker = require("faker");//require fake data
 const mongoose = require("mongoose");
 const config = require("../config/keys.js");// require 
